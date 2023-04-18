@@ -1,0 +1,18 @@
+{
+  "name": "graphical_password_manager",
+  "version": "1.0.0",
+  "description": "This project is a prototype for graphical password manager which uses NFT's and smart contracts to create and prevent theft of confidential information. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepakraj K",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.13.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "alchemy-sdk": "^2.8.0"
+  }
+}
